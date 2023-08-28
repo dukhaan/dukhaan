@@ -1,4 +1,4 @@
-<h1>I'm Dukhaan Here </h1>
+<h1>Hi! I'm Dukhaan</h1>
 
 <h3>🔗 Follow My Social:</h3>
 
