@@ -25,14 +25,12 @@
     <img alt="Dukhaan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dukhaan&langs_count=8&layout=compact&theme=blueberry&border_color=FFFFFF&bg_color=242938&title_color=89DDFF&icon_color=F8D866&text_color=FFFFFF" height="192px" width="49.5%"/>
   </a>
 </p>
-<--
-  
+<!--  
 <p align="center">
   <a href="https://github.com/dukhaan">
     <img alt="Dukhaan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dukhaan&show_icons=true&count_private=true&theme=blueberry&border_color=FFFFFF&bg_color=242938&title_color=89DDFF&icon_color=F8D866&text_color=FFFFFF" height="195px" width="49.5%"/>
   </a>
 </p>
-
 -->
 <p align="center">
   <a href="https://github.com/dukhaan">
